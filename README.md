@@ -39,3 +39,11 @@ Meu currículo pode ser encontrado [aqui](https://docs.google.com/document/d/1fy
 - Outras: RESTful APIs, Sass, Bootstrap
 
 ---
+
+### GitHub Stats
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BryanGun&show_icons=true&theme=radical)
+
+### Linguagens Mais Usadas
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGun&layout=compact)
