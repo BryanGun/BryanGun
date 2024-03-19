@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Co
 
 ### Portfólio
 
-Meu portfólio completo pode ser acessado [aqui](bryangun.github.io/).
+Meu portfólio completo pode ser acessado [aqui](https://bryangun.github.io/).
 
 ---
 
