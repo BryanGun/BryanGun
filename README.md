@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Co
 
 - Ativo no GitHub, seguindo e interagindo com desenvolvedores de destaque na área.
 - Participante ativo de comunidades de desenvolvimento e organizações.
-- Facilmente acessível via email, telefone, LinkedIn e WhatsApp.
+- Facilmente acessível via [email](mailto:badriel62@gmail.com), telefone, [LinkedIn](https://www.linkedin.com/in/bryanadriel/) e WhatsApp.
 
 ---
 
