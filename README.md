@@ -42,6 +42,6 @@ Meu currículo pode ser encontrado [aqui](https://docs.google.com/document/d/1fy
 
 ### GitHub Stats
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BryanGun&show_icons=true&theme=radical) | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGun&layout=compact) |
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanGun&layout=compact) |
 |---|---|
 
